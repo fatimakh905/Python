@@ -22,5 +22,3 @@ python --version
 ```bash
 python filename.py
 ```
-on scripts.
-
